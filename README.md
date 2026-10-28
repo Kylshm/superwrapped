@@ -1,11 +1,5 @@
-                                                                        __
-   _______  ______  ___  ______      ___________ _____  ____  ___  ____/ /
-  / ___/ / / / __ \/ _ \/ ___/ | /| / / ___/ __ `/ __ \/ __ \/ _ \/ __  / 
- (__  ) /_/ / /_/ /  __/ /   | |/ |/ / /  / /_/ / /_/ / /_/ /  __/ /_/ /  
-/____/\__,_/ .___/\___/_/    |__/|__/_/   \__,_/ .___/ .___/\___/\__,_/   
-          /_/                                 /_/   /_/                   
----
----
+![Temporary logo](./img/temp.logo.png)
+
 _Like spotify wrapped, but for your entire listening history_
 
 superwrapped is a fun sideproject that takes in your listening history and analyses it. More specifically, it finds your
