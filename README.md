@@ -1,4 +1,4 @@
-![Temporary logo](./img/temp.logo.png)
+![Temporary logo](./temp-images/temp.logo2.png)
 
 _Like spotify wrapped, but for your entire listening history_
 
