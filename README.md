@@ -13,7 +13,7 @@ superwrapped is a work in progress and will be made entirely _without_ AI.
 
 ## Current plans
 ---
-- [ ] Functionality to turn JSON listening data to list of songs
+- [X] Functionality to turn JSON listening data to list of songs
 - [ ] total listening minutes
 - [ ] Top 10 most/least listened song, artist, album
 - [ ] most/least skippable songs list
