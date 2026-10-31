@@ -14,7 +14,7 @@ superwrapped is a work in progress and will be made entirely _without_ AI.
 ## Current plans
 ---
 - [X] Functionality to turn JSON listening data to list of songs
-- [ ] total listening minutes
+- [X] total listening minutes
 - [ ] Top 10 most/least listened song, artist, album
 - [ ] most/least skippable songs list
 - [ ] most common ways songs starts/ends
